@@ -1,6 +1,6 @@
 {
   "name": "angular-sharepoint-sharecoffee-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "Prince Park <prince_ppy@yahoo.com>"
   ],
@@ -26,5 +26,16 @@
     "SharePoint",
     "REST",
     "API"
-  ]
+  ],
+  "dependencies": {
+    "ShareCoffee": "^0.1.4",
+    "ShareCoffee.Search": "^0.0.2",
+    "ShareCoffee.UserProfiles": "*"
+  },
+  "devDependencies": {
+    "ShareCoffee": "^0.1.4",
+    "ShareCoffee.Search": "^0.0.2",
+    "ShareCoffee.UserProfiles": "*",
+    "angular": "^1.6.5"
+  }
 }
