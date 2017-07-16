@@ -1,0 +1,30 @@
+{
+  "name": "angular-sharepoint-sharecoffee-wrapper",
+  "version": "1.0.0",
+  "authors": [
+    "Prince Park <prince_ppy@yahoo.com>"
+  ],
+  "description": "Angular ShareCoffee Extension for SharePoint REST API and AngularJs for 2013, 2016 and Online",
+  "main": "dist/angular-sharepoint-sharecoffee-wrapper.js",
+  "license": "MIT",
+  "homepage": "https://github.com/princeppy/angular-sharepoint-sharecoffee-wrapper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/princeppy/angular-sharepoint-sharecoffee-wrapper"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "Angular",
+    "ShareCoffee",
+    "Extension",
+    "SharePoint",
+    "REST",
+    "API"
+  ]
+}
