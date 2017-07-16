@@ -1,4 +1,4 @@
-(function (angular) {
+(function () {
   'use strict';
   /**
    * @ngdoc object
@@ -33,4 +33,4 @@
       return $spPageContextInfo;
     });
 
-})(window, angular);
+})();

@@ -36,6 +36,9 @@ gulp.task('js', function () {
     ])
         .pipe($.filter('**/*.js'))
         .pipe($.order([
+            'ShareCoffee.js',
+            'ShareCoffee.Search.js',
+            'ShareCoffee.UserProfiles.js',
             'module.js',
             '*.app.js',
             '*.module.js',

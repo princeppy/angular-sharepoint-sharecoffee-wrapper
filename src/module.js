@@ -1,4 +1,4 @@
-(function (angular) {
+(function () {
   'use strict';
   /**
    * @ngdoc overview
@@ -125,4 +125,4 @@
     'ExpertsInside.SharePoint.User'
   ]);
 
-})(window, angular);
+})();

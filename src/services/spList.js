@@ -1,4 +1,4 @@
-(function (angular) {
+(function () {
   'use strict';
   /**
    * @ngdoc service
@@ -546,4 +546,4 @@
       return listFactory;
     });
 
-})(window, angular);
+})();

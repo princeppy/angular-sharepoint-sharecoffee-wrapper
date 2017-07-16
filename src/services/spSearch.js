@@ -1,4 +1,4 @@
-(function (angular) {
+(function () {
   'use strict';
   /**
    * @ngdoc service
@@ -131,4 +131,4 @@
       return search;
     });
 
-})(window, angular);
+})();

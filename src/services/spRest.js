@@ -1,4 +1,4 @@
-(function (angular) {
+(function () {
   'use strict';
   /**
    * @ngdoc service
@@ -214,4 +214,4 @@
       return $spRest;
     });
 
-})(window, angular);
+})();

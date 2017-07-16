@@ -1,4 +1,4 @@
-(function (angular) {
+(function () {
   'use strict';
   /**
    * @ngdoc object
@@ -227,4 +227,4 @@
       return $spConvert;
     });
 
-})(window, angular);
+})();

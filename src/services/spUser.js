@@ -1,4 +1,4 @@
-(function (angular) {
+(function () {
   'use strict';
   /**
    * @ngdoc service
@@ -91,4 +91,4 @@
       return $spUser;
     });
 
-})(window, angular);
+})();
