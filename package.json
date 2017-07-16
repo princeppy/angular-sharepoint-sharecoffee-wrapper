@@ -1,6 +1,6 @@
 {
   "name": "angular-sharepoint-sharecoffee-wrapper",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Angular ShareCoffee Extension for SharePoint REST API and AngularJs for 2013, 2016 and Online",
   "main": "angular-sharepoint-sharecoffee-wrapper.js",
   "scripts": {
